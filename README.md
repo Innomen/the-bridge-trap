@@ -11,3 +11,7 @@ David Pearce proposes that reversible thalamic bridges will one day permit mind-
 [PDF](paper.pdf) · [Markdown](paper.md) · [PhilPapers](https://philpapers.org/rec/SERTBT-2)
 
 All rights reserved; free to read.
+
+## Archive
+
+[Zenodo](https://zenodo.org/records/23319215) · [DOI](https://doi.org/10.5281/zenodo.23319215)
